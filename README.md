@@ -1,1 +1,1 @@
-Trabalhos referentes a disciplina de Estrutura de Dados 2
+Trabalhos referentes a disciplina de Estrutura de Dados 1
